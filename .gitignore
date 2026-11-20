@@ -1,0 +1,9 @@
+node_modules/
+dist/
+src/infrastructure/prisma/generated/
+coverage/
+*.log
+tsconfig.build.tsbuildinfo
+.env
+.windsurf/
+skills-lock.json
